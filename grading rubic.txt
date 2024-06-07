@@ -1,0 +1,39 @@
+Grading Rubric for Poem Generators
+Fluency (F)
+Definition: The smoothness, readability, and natural flow of the language in the generated poem.
+
+3 (Perfect): The poem reads naturally with no awkward phrases or grammatical errors. It flows smoothly from line to line.
+            Example:
+2 (Average): The poem has some noticeable grammatical errors or awkward phrases that affect readability but still maintains overall coherence.
+1 (Poor): The poem is difficult to read due to numerous grammatical errors and awkward phrases, making it largely incomprehensible.
+Coherence (C)
+Definition: The logical and thematic consistency within the poem. How well the lines and stanzas connect to form a unified piece.
+
+3 (Perfect): The poem is logically and thematically consistent throughout. Each line and stanza connect seamlessly, contributing to the overall theme.
+2 (Average): The poem has noticeable inconsistencies or weak connections, but the overall theme is still discernible.
+1 (Poor): The poem lacks coherence, with lines and stanzas appearing disjointed and unrelated, making the theme unclear.
+Meaning (M)
+Definition: The depth, clarity, and significance of the message conveyed by the poem.
+
+3 (Perfect): The poem conveys a deep, clear, and meaningful message. It evokes strong emotions or thoughts and has a significant impact.
+2 (Average): The poem conveys a message, but it may lack depth or clarity, making it less impactful.
+1 (Poor): The poem lacks a clear or meaningful message, making it difficult to understand or connect with.
+Aesthetics (A)
+Definition: The beauty and artistic quality of the poem, including imagery, metaphor, and other poetic devices.
+
+3 (Perfect): The poem is artistically rich, using vivid imagery, metaphors, and other poetic devices effectively. It is aesthetically pleasing and engaging.
+Example:
+2 (Average): The poem uses some poetic devices and imagery, but they are not particularly vivid or effective.
+1 (Poor): The poem lacks any significant use of poetic devices or imagery, making it dull and unengaging.
+Overall Evaluation
+To evaluate a poem generator, assign scores (1-3) for each of the four categories (Fluency, Coherence, Meaning, Aesthetics). The final score can be an average or a weighted sum based on the importance of each category.
+
+Example:
+
+Fluency: 2
+Coherence: 3
+Meaning: 2
+Aesthetics: 3
+Overall Score: (2 + 3 + 2 + 3) / 4 = 2.5
+
+This simplified rubric provides a structured yet straightforward evaluation method for poem generators.
